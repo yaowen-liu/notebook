@@ -11,4 +11,4 @@ int main()
 }
 ```
 
-![image-20240107155632297](D:\Github_notebook\images\image-20240107155632297.png)
+![image-20240107155632297](https://raw.githubusercontent.com/yaowen-liu/notebook/master/data/202401071858497.png)
