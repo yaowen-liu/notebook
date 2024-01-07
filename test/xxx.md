@@ -11,8 +11,4 @@ int main()
 }
 ```
 
-
-
-
-
 ![image-20240107155632297](D:\Github_notebook\images\image-20240107155632297.png)
